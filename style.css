@@ -313,12 +313,12 @@ footer a i {
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 999px) {
   #showcase {
     height: 70vh;
   }
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1000px) and (max-width: 1199px) {
   #showcase {
     height: 60vh;
   }
